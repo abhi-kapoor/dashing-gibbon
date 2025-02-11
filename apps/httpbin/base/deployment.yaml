@@ -6,7 +6,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: httpbin
+      app: httpbins
       version: v1
   template:
     metadata:
