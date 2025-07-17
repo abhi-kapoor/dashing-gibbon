@@ -6,3 +6,5 @@ resources:
   - service.yaml
   - serviceAccount.yaml
   - crd.yaml
+  - crd2.yaml
+  - crd3.yaml
