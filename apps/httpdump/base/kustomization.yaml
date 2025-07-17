@@ -7,4 +7,3 @@ resources:
   - serviceAccount.yaml
   - crd.yaml
   - crd2.yaml
-  - crd3.yaml
