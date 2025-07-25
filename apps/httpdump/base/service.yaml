@@ -7,7 +7,7 @@ metadata:
     service: httpdump
 spec:
   ports:
-    - name: http
+    - name: https
       port: 8080
       targetPort: 8080
   selector:
