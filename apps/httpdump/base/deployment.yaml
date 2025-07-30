@@ -20,4 +20,4 @@ spec:
           imagePullPolicy: IfNotPresent
           name: httpdump
           ports:
-            - containerPort: 8080
+            - containerPort: 8082
