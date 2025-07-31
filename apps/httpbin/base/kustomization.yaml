@@ -5,4 +5,5 @@ resources:
   - deployment.yaml
   - service.yaml
   - serviceAccount.yaml
-  - clusterrole.yaml
+  - internal-ingress.yaml
+  - external-ingress.yaml
